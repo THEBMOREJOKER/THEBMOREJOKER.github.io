@@ -1,0 +1,27 @@
+{
+  "verification":"d4dc28d5190d8f2ecf",
+  "info": {
+    "url_png_icon_64x64": "https://img1.wsimg.com/blobby/go/82fcea82-483e-47de-81cd-cfb5637502ec/downloads/ABLE_03.png",
+    "url_png_logo": "https://img1.wsimg.com/blobby/go/82fcea82-483e-47de-81cd-cfb5637502ec/downloads/344x130.png",
+    "location": "Baltimore, U.S.A.",
+    "social": {
+      "twitter_handle": "The_Bmore_Joker",
+      "telegram_handle": "THEBMOREJOKER",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "Joker Pool#2748",
+      "github_handle": "THEBMOREJOKER"
+    },
+    "about": {
+      "server": "Only Bare-Metal servers. | In 2 different geographical locations. | Multi-layered security. | Emergency power source for each server node. | Dedicated relay operators. | Server monitoring 24/7.",
+      "company": "Joker Pool is here to bring none Tech people into the Cardano ecosystem and help educate them. It is our belief that it is the SPO's job to help all people understand how the Cardano blockchain can give the forgotten men and women the tools for self sovereignty & economic freedom. No matter were they are located in the world, we believe that understanding the fundamentals behind this technology should be easy and accessible. We also belive that it is the SPO's role to help build out reliable infrastructure and actively participate in CIP-1694 that will define the governance structure for Cardano.  
+    }
+  },
+  "my-pool-ids": {
+    "0": "dacf06a23e4aaf119024e63deb79861ca175b24e7d44d97fb92b1a22"
+  },
+  "when-satured-then-recommend": {
+    "0": "dacf06a23e4aaf119024e63deb79861ca175b24e7d44d97fb92b1a22"
+  }
+}
