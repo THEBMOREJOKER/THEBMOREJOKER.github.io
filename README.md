@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -149,7 +148,7 @@ button:hover {
 <body>
     <div class="container">
         <div class="logo">
-            <img src="Joker.jpg" alt="Joker Logo">
+            <img src="https://github.com/THEBMOREJOKER/THEBMOREJOKER.github.io/blob/main/Joker%20pool%20logo%20png.png" alt="Joker Logo">
         </div>
         <h1>Joker stake pool</h1>
         <ul class="features">
